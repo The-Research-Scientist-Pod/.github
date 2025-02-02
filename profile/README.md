@@ -1,12 +1,29 @@
-# 🧪 Welcome to The Research Scientist Pod on Github!
+# 🧪 Welcome to The Research Scientist Pod
 
-[![Website](https://img.shields.io/badge/Website-researchdatapod.com-brightgreen)](https://researchdatapod.com)
+[![GitHub stars](https://img.shields.io/github/stars/research-scientist-pod?style=social)](https://github.com/research-scientist-pod)
+[![GitHub forks](https://img.shields.io/github/forks/research-scientist-pod?style=social)](https://github.com/research-scientist-pod)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Website](https://img.shields.io/badge/Website-ResearchDataPod.com-brightgreen)](https://researchdatapod.com)
 
 > Empowering researchers and developers through interactive visualizations and AI-driven tools.
 
 We're a community of researchers, developers, and enthusiasts working at the intersection of computer science, artificial intelligence, and interactive visualization. Our mission is to make complex algorithms and AI concepts more accessible through hands-on, visual learning experiences.
 
-## 🚀 What We're Building
+## 🚀 Featured Projects
+
+### 🎨 [Sorting Algorithm Visualizer](https://github.com/The-Research-Scientist-Pod/sorting-visualizer)
+A dynamic React-based tool for visualizing sorting algorithms:
+- **Interactive Animations**: Real-time visualization of Bubble Sort, Quick Sort, Merge Sort, and more
+- **Customizable Parameters**: Adjust animation speed and array size
+- **Parallel Visualization**: Compare multiple sorting algorithms simultaneously
+- **Educational Resources**: Comprehensive documentation and tutorials
+
+### 💹 [Options Pricing Calculator](https://github.com/The-Research-Scientist-Pod/options-pricing-calculator)
+Modern C++ library and GUI application for financial options pricing:
+- **Multiple Models**: Black-Scholes, Monte Carlo simulation, Binomial tree
+- **Complete Greeks**: Delta, Gamma, Theta, Vega, Rho calculations
+- **Interactive Interface**: Qt6-based GUI for intuitive usage
+- **Extensive Documentation**: Implementation guides and theoretical background
 
 ### 🗺️ Pathfinding Visualizations
 Interactive implementations of popular pathfinding algorithms:
@@ -22,19 +39,12 @@ Modern implementations of timeless games with AI twists:
 - **Hangman**: Including word frequency analysis
 - **Pac-Man**: With ghost AI behavior visualization
 
-### 🤖 Deep Q-Learning Projects
-Exploring deep reinforcement learning in classic board games:
-- Chess engine with move explanation
-- Go playing agent with territory analysis
-- Interactive training visualization
-- Performance metrics dashboard
-
-### 🔍 Search Algorithm Visualizations
-Step-by-step visualization of search strategies:
-- **Binary Search**: With time complexity analysis
-- **Linear Search**: Showcasing best/worst cases
-- **Jump Search**: Block-jumping visualization
-- **Exponential Search**: Boundary visualization
+### 🔍 Algorithm Learning Resources
+Comprehensive educational content available on our website:
+- [Sorting Algorithms Guide](https://researchdatapod.com/dsa/)
+- [Options Pricing Tutorials](https://researchdatapod.com/black-scholes-option-pricing-in-c/)
+- [Interactive Calculators](https://researchdatapod.com/data-science-tools/calculators/)
+- Step-by-step algorithm demonstrations
 
 ## 📢 Get Involved
 
@@ -43,6 +53,7 @@ We're always looking for contributors who are passionate about:
 - 🧠 AI/ML implementations
 - 🎯 Algorithm optimization
 - 📚 Documentation and tutorials
+- 💻 C++ and React development
 
 ### How to Contribute
 
@@ -52,7 +63,7 @@ We're always looking for contributors who are passionate about:
 
 ### 📫 Connect With Us
 
-- 🌐 [The Research Scientist Pod Website](https://researchdatapod.com)
+- 🌐 [ResearchDataPod.com](https://researchdatapod.com)
 - 📧 [Email Us](mailto:suf@researchdatapod.com)
 
 ---
@@ -61,6 +72,6 @@ We're always looking for contributors who are passionate about:
 
 **Made with ❤️ by The Research Scientist Pod Community**
 
-[Star us on GitHub](https://github.com/the-research-scientist-pod) | [Latest Updates](https://researchdatapod.com/blog)
+[Star us on GitHub](https://github.com/research-scientist-pod) | [Latest Updates](https://researchdatapod.com/blog)
 
 </div>
