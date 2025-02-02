@@ -64,6 +64,6 @@ We're always looking for contributors who are passionate about:
 
 **Made with ❤️ by The Research Scientist Pod Community**
 
-[Star us on GitHub](https://github.com/research-scientist-pod) | [Latest Updates](https://researchdatapod.com/blog)
+[Star us on GitHub](https://github.com/the-research-scientist-pod) | [Latest Updates](https://researchdatapod.com/blog)
 
 </div>
