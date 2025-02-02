@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/research-scientist-pod?style=social)](https://github.com/research-scientist-pod)
 [![GitHub forks](https://img.shields.io/github/forks/research-scientist-pod?style=social)](https://github.com/research-scientist-pod)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Website](https://img.shields.io/badge/Website-ResearchDataPod.com-brightgreen)](https://researchdatapod.com)
+[![Website](https://img.shields.io/badge/Website-researchdatapod.com-brightgreen)](https://researchdatapod.com)
 
 > Empowering researchers and developers through interactive visualizations and AI-driven tools.
 
